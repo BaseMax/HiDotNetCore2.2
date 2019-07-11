@@ -1,5 +1,7 @@
 # Dot Net Core 2.2
 
+A repository to analyze and check the sample project based on Dot.net Core 2.2.
+
 Max@Base:~$ dotnet --version
 ---------
 ```
