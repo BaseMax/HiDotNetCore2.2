@@ -2,6 +2,12 @@
 
 A repository to analyze and check the sample project based on Dot.net Core 2.2.
 
+![ScreenShot](screenshot1.jpg)
+
+![ScreenShot](screenshot2.jpg)
+
+![ScreenShot](screenshot3.jpg)
+
 Max@Base:~$ dotnet --version
 ---------
 ```
